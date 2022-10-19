@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - box
+  - canvas
+  - leftArrow
+  - rightArrow
+  - upArrow
+  - downArrow
+  - door
+  - lightSwitch
+  - drawer1
+  - drawer2
+  - desk
+  - blue_key
+  - door_obj
+  - exit
+  - black_key
+  - shelf
+  - booksnpaper
+  - shelfpot1
+  - shelfpot2
+  - wallShelf
+  - floorPlant
+  - floorLamp
+  - cabinet
+  - bottle
+  - bookcase2
+  - bookcase1
+  - z_bookcase1
+  - handkerchief
+  - z_bookcase2_1
+  - z_bookcase2_2
+  - colorBtn1
+  - colorBtn2
+  - colorBtn3
+  - colorBtn4
+  - colorBtn5
+  - colorBtn6
+  - bookcase2Doors
+  - bc2doorLeft
+  - bc2doorRight
+  - cabinet_key
+  - whale_key
+  - whaleKey
+  - lampPass
+  - passCover
+  - pass
+  - cabinetKey
+  - battery
+  - hintArea
+  - crumpled_paper
+  - wallShelf1
+  - wallShelf2
+  - glassWhale
+  - numberPad
+  - numberBtn1
+  - numberBtn2
+  - numberBtn3
+  - numberBtn4
+  - wallHoleArea
+  - wallBtnArea
+  - wallBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
